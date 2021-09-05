@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ardapocblog-dev-173509-authRole",
+      "UnauthRoleArn": "arn:aws:iam::662159124659:role/amplify-ardapocblog-dev-173509-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::662159124659:role/amplify-ardapocblog-dev-173509-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ardapocblog-dev-173509-deployment",
+      "UnauthRoleName": "amplify-ardapocblog-dev-173509-unauthRole",
+      "StackName": "amplify-ardapocblog-dev-173509",
+      "StackId": "arn:aws:cloudformation:us-east-1:662159124659:stack/amplify-ardapocblog-dev-173509/7b1569e0-0e56-11ec-a5cc-0a6a26cca077",
+      "AmplifyAppId": "d23hb4sp4jdqi0"
+    }
+  }
+}
