@@ -9,6 +9,7 @@ type Post @model {
 	likes: [Like] @connection(name: "PostLikes")
 }
  
+ # test
 type Comment @model {
 	id: ID!
 	commentOwnerId: String!
